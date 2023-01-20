@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ralpharama
-- 👀 I’m interested in C#, .NET Core, PHP, WordPress
+- 👀 I’m interested in C#, .NET Core, PHP, WordPress, Python
 - 🌱 I’m currently learning everything
 - 📫 How to reach me Twitter @Ralpharama
